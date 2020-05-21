@@ -1,0 +1,39 @@
+@charset "UTF-8";
+#put_idname
+{
+width:400px;
+}
+#put_password
+{
+	width:400px;
+}
+#put_repassword
+{
+	width:400px;
+}
+#title
+{
+	width: 300px;
+	height: 50px;
+	background-color: #483D8B;
+	color:white;margin: 20px;
+	padding: 10px;
+	font-size: 25px;
+	border-radius: 8px;
+}
+#submit
+{
+	margin:20px;
+}
+#block0
+{
+	margin:20px;
+}
+#tip
+{
+	color:#483D8B;
+	
+}
+#tip_block{
+	width:450px;
+}

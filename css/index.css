@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.page
+{
+	margin:20px;
+}
+.Login
+{
+	margin:20px;
+}
+.name_box
+{
+	margin:20px;
+}
+.password_box
+{
+	margin:20px;
+}
+#id_name
+{
+	width: 400px;
+}
+#id_password
+{
+	width:416px;
+}
